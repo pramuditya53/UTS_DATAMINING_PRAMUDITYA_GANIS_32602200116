@@ -12,8 +12,11 @@ untuk Pytthon saya menggunakan file : https://github.com/pramuditya53/UTS_DATAMI
 Jawaban no4
 [Aggregasi.xlsx](https://github.com/user-attachments/files/17791966/Aggregasi.xlsx)
 
+Untuk file Phyton: https://github.com/pramuditya53/UTS_DATAMINING_PRAMUDITYA_GANIS_32602200116/blob/main/aggregasi.ipynb 
+
 Jawaban no5
 [Sampling.xlsx](https://github.com/user-attachments/files/17791960/Sampling.xlsx)
+Untuk file Phyton: https://github.com/pramuditya53/UTS_DATAMINING_PRAMUDITYA_GANIS_32602200116/blob/main/sampling.ipynb
 
 
 
